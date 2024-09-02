@@ -1,0 +1,10 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\bin\Debug\TextEncryptorApp.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\bin\Debug\TextEncryptorApp.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\bin\Debug\TextEncryptorApp.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\TextEncryptorApp\obj\Debug\TextEncryptorApp.frmTextEnrcryptor.resources
